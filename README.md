@@ -1,4 +1,4 @@
-*Testing pushing to GitHub
+# Testing pushing to GitHub
 
 - First, create a folder
 - Then, do `git init`
